@@ -30,3 +30,6 @@ group :test do
   gem 'factory_girl',                 '3.0.0'
   gem 'factory_girl_rails',           '3.0.0'
 end
+
+
+gem 'sqlite3'
